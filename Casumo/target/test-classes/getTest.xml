@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Get request Tests" verbose="1" >
+
+    <test name="Get request" verbose="1">
+        <classes>
+            <class name="tests.GetTest">
+
+            </class>
+        </classes>
+    </test>
+
+</suite>
